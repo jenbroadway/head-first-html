@@ -1,0 +1,13 @@
+Starbuzz Coffee Beverages
+
+House Blend, $1.49
+A smooth, mild blend of coffee from Mexico, Bolivia and Guatemala.
+
+Mocha Coffee Latte, $2.35
+Espresso, steamed milk and chocolate syrup.
+
+Cappuccino, $1.09
+A mixture of espresso, steamed milk and foam.
+
+Chai Tea, $1.85
+A spicy drink made with black tea, spices, milk and honey.

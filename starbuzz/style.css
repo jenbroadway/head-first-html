@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+	margin-right: 20%;
+	margin-left: 20%;
+	background-color: tan;
+	border: 1px dotted #999;
+}
+.padding{padding: 20px;}
+h1{
+	color: black;
+}
+h2{
+	color: black;
+}
