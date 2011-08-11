@@ -1,0 +1,9 @@
+body{
+	background: #C4B084 url(images/sand_texture.jpg) repeat;
+	padding: 0px;
+	margin: 0px;
+	font: 100% "Helvetica", "Arial", Verdana, sans-serif;
+	text-shadow: 0px 2px 3px #666;
+	color:#000;
+}
+img{border: 5px solid #222; margin:5}
